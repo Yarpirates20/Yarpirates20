@@ -2,20 +2,21 @@
 
 ---
 
-- 🏳️‍🌈 I'm Rob, which is definitely **not** short for Robotic Overlord Butler.
+🏳️‍🌈 I'm Rob, which is definitely **not** short for Robotic Overlord Butler. My main hobbies are reading (anything, words mostly), and solving problems. 
 
 
-##### Main interests:
+##### Main tech interests:
 
 - C/C++
 - Python
 - Linux/Bash
+- Tetris
 
 ##### Experience and education: 
 
-- is still pretty fresh. 
-- Pursuing an Associates Degree at Rock Valley College
-- Open to collaboration and interesting ideas
+- I'd classify my programming experience as early-stage advanced beginner. Docs supporting this claim available upon request.
+- Pursuing an Associates Degree in Computer and Information Systems at Rock Valley College, Rockford, Illinois.
+- Open to collaboration and interesting ideas. 
 
 ##### Find me on:
 
