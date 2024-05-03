@@ -2,7 +2,7 @@
 
 ---
 
-🏳️‍🌈 I'm Rob, which is definitely **not** short for Robotic Overlord Butler. My main hobbies are reading (anything, words mostly), and solving problems. 
+🏳️‍🌈 I'm Rob. My main hobbies are reading (anything, words mostly), and solving problems. 
 
 
 ##### Main tech interests:
@@ -14,8 +14,7 @@
 
 ##### Experience and education: 
 
-- I'd classify my programming experience as early-stage advanced beginner. Docs supporting this claim available upon request.
-- Pursuing an Associates Degree in Computer and Information Systems at Rock Valley College, Rockford, Illinois.
+- Pursuing an Associates Degree in Computer and Information Systems at Rock Valley College, Rockford, Illinois. Plan to attend Northern Illinois University and major in Computer Science.
 - Open to collaboration and interesting ideas. 
 
 ##### Find me on:
