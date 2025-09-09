@@ -2,24 +2,22 @@
 
 ---
 
-🏳️‍🌈 I'm Rob. My main hobbies are reading (anything, words mostly), and solving problems. 
+I'm Rob.
 
 
 ##### Main tech interests:
 
 - C/C++
-- Python
-- Linux/Bash
-- Tetris
+- Systems
+- Your mom. 
 
 ##### Experience and education: 
 
-- Pursuing an Associates Degree in Computer and Information Systems at Rock Valley College, Rockford, Illinois. Plan to attend Northern Illinois University and major in Computer Science.
-- Open to collaboration and interesting ideas. 
+-Studying computer science at Northern Illinois University. 
 
 ##### Find me on:
 
-- [My Replit](https://replit.com/@robsamoraj)
+- Will have a blog eventually. 
 
 
 <!-- - 👋 Hi, I’m @Yarpirates20
